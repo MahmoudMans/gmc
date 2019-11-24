@@ -1,0 +1,21 @@
+#img1{
+background-image: url('https://www.disruptunisia.com/couverture/5cd9f73e0a79c.png') ;
+height:700px;
+background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+  #img2{
+background-image: url('https://pbs.twimg.com/media/D5FucxVUYAAVJ3I.png');
+height:900px;
+background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+} 
+#img3{
+    background-image: url('https://cdn-images-1.medium.com/max/1600/1*LzxEGZa4xDOFc7Ch67Iprg.jpeg');
+height:1000px;
+background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
